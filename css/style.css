@@ -507,7 +507,7 @@ a, a:hover {
 
 .unslate_co--site-nav .unslate_co--site-logo {
   font-size: 1.7rem;
-  color: #fff;
+  color: 	#00CED1;
   font-weight: 700;
 }
 
@@ -1071,7 +1071,7 @@ a, a:hover {
 .cover-v1 .heading {
   font-size: 5rem;
   font-weight: 900;
-  color: #DAA520;
+  color: #149e92;
 }
 
 @media (max-width: 991.98px) {
