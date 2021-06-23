@@ -20,7 +20,8 @@
 
   // Keep them at most 100% wide
   @include img-fluid;
-  
+    max-width: 50%;
+    height: auto
 }
 
 //
